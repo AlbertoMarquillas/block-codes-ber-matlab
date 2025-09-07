@@ -1,0 +1,26 @@
+# Build / binary outputs
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.log
+
+# MATLAB temporary / autosave files
+*.asv
+*.m~
+*.mex*
+*.slxc
+*.slprj/
+*.autosave
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
