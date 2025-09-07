@@ -32,7 +32,6 @@ This repository is part of the **Digital Communications coursework (2024–2025)
 │  ├─ Activitat pràctica AC2.pdf  # Original assignment statement
 │  └─ assets/               # Figures and simulation results
 │     └─ grafica_BER_AC2.png
-├─ scripts/                 # Helper scripts
 ├─ build/                   # Temporary outputs (ignored)
 └─ README.md                # Project documentation
 ```
