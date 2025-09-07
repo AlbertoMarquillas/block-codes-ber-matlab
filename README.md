@@ -28,12 +28,11 @@ This repository is part of the **Digital Communications coursework (2024–2025)
 │  └─ simulate_block_codes.m
 ├─ test/                    # Placeholder for future test scripts
 ├─ docs/                    # Reports and written documentation
-│  ├─ Memoria_AC2.pdf       # Project report (Spanish/Catalan)
-│  ├─ Memoria_AC2.docx      # Editable version of the report
+│  ├─ Memoria_AC2.pdf       # Project report (Catalan)
 │  ├─ Activitat pràctica AC2.pdf  # Original assignment statement
 │  └─ assets/               # Figures and simulation results
 │     └─ grafica_BER_AC2.png
-├─ scripts/                 # Helper scripts (future)
+├─ scripts/                 # Helper scripts
 ├─ build/                   # Temporary outputs (ignored)
 └─ README.md                # Project documentation
 ```
